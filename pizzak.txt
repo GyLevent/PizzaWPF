@@ -1,0 +1,5 @@
+﻿vegetariánus;800;1200
+magyaros;950;1300
+somkás;900;1150
+mediterán;1000;1400
+tonhalas;950;1300
